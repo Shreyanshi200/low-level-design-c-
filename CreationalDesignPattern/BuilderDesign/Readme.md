@@ -1,0 +1,2 @@
+The builder pattern is defined as a creational design pattern that separates the construction of a complex object from its representation, allowing us to create different representations of an object using the same construction process. It’s beneficial when an object has many optional properties or configurations.
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231009205829/gfg.png"/>
