@@ -1,0 +1,2 @@
+Abstract Factory Pattern is a creational design pattern used in object-oriented programming. It provides an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is a way to encapsulate the creation of objects and ensure that they are compatible and properly configured.
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230930214636/UML-1.png"/>
